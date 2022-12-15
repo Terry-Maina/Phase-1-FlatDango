@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./index.css">
+  <title>ITess Movies</title>
+</head>
+<body>
+  <div id='container'>
+    <!--Navbar section--> 
+  <div id="navBar">
+    <div id="main-title">
+      <h1>ITess Cinema Shows</h1>
+    </div>
+    <div id="menu">
+      <ul>
+        <li>Home</li>
+        <li>Movies</li>
+        <li>Find a theater</li>
+      </ul>
+    </div>
+  </div>
+  <!--landing page-->
+  <div id="landingPage">
+    <!--leftDiv-->
+    <div id="left" class="card">
+      <h3>movie list</h3>
+      <ul id="list"></ul>
+    </div>
+    <!--centerDiv-->
+    <div id="center">
+      <img id="image" src="images/It's movie time.webp" alt="Movie Time!">
+
+    </div>
+    <!--rightDiv-->
+    <div id="right" class="card">
+      <h5>Title:<span id="title"></span></h5>
+      <h5>Runtime:<span id="runtime"></span></h5>
+      <h5>Capacity:<span id="capacity"></span></h5>
+      <h5>Showtime:<span id="showtime"></span></h5>
+      <h5>Tickets Available:<span id="tickets"></span></h5>
+      <h5>Description:<span id="description"></span></h5>
+    </div>
+  </div>
+  <div id="form">
+    <label for="">Enter your name</label>
+    <input type="text" placeholder="Enter your name" id="namee" >
+    <label for="">Enter number of tickets</label>
+    <input type="number" id="newticket" placeholder="Enter number of tickets">
+    <input type="Submit" id="button" class="btn btn-outline-success"> 
+  </div>
+  <footer>
+    <div>
+      <h5>ITess Movies</h5>
+      <p>Terms & Conditions</p>
+      <p>&copy 2021 ITess movies. All rights reserved.</p>
+    </div>
+    <div>
+      <h5>Contact us</h5>
+      <p>email:ITess@gmail.com</p>
+      <p>mobile no: 0789404888</p>
+    </div>
+    <div>
+      <h5>Location</h5>
+      <p>RalfBunche road</p>
+      <p>Nairobi</p>
+    </div>
+  </footer>
+  </div>
+  <script src="./index.js"></script>
+</body>
+</html>

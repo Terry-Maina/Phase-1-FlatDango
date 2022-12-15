@@ -1,0 +1,88 @@
+{
+ 
+ "films": [
+ 
+  {
+ 
+      "id": "1",
+ 
+      "title": "The Giant Gila Monster",
+ 
+      "runtime": "108",
+ 
+      "capacity": 30,
+ 
+      "showtime": "04:00PM",
+ 
+      "tickets_sold": 27,
+ 
+      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
+ 
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+ 
+    },
+  {
+
+ 
+    "id": "2",
+ 
+    "title": "Originals",
+
+    "runtime": "120",
+
+    "capacity": 30,
+
+    "showtime": "01:00PM",
+
+    "tickets_sold": 24,
+
+    "description": "It is a spin-off of The Vampire Diaries and the first television series expansion of the franchise based on its parent series. The series follows vampire-werewolf hybrid Klaus Mikaelson as he and his family become embroiled in the supernatural politics of the French Quarter of New Orleans.",
+
+    "poster": "images/originals.jpeg"
+
+  },
+  {
+
+ 
+    "id": "3",
+ 
+    "title": "GraceLand",
+
+    "runtime": "180",
+
+    "capacity": 30,
+
+    "showtime": "08:00PM",
+
+    "tickets_sold": 27,
+
+    "description":"Set in the Nigerian city of Lagos, GraceLand is the story of a teenage boy named Elvis Oke, who is trying to escape the poverty of his community. Starting out as an Elvis Presley impersonator, he takes on a wide variety of jobs, many of which place him in criminal situations.",
+
+    "poster": "images/download (1).jpeg"
+
+  },
+  {
+
+ 
+    "id": "4",
+ 
+    "title": "click click Bang",
+
+    "runtime": "108",
+
+    "capacity": 30,
+
+    "showtime": "08:00AM",
+
+    "tickets_sold": 27,
+
+    "description": "When Kev, a super talented footballer's dream come crushing down, he is left with no choice but to join the criminal world. In the process of trying to win the battle, he loses the war.",
+
+    "poster": "images/clickclick bang.jpg"
+
+  }
+  
+ 
+ ]
+ 
+ }
